@@ -1,2 +1,4 @@
 /WebSite/obj
 /WebSite/bin
+/WebSite/Properties/PublishProfiles
+/WebSite/*.user

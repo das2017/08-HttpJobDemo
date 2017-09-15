@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{C8D56201-BC41-427E-8DDC-60E79AF5D774}"
+	ProjectSection(SolutionItems) = preProject
+		References\log4net.dll = References\log4net.dll
+		References\log4net.xml = References\log4net.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.csproj", "{6398C22F-BD7F-4A05-B236-FB677D8ADE86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F6215404-FB75-4E59-AE62-895E816E93B9}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\JobServer Release.7z = Documents\JobServer Release.7z
+		Documents\说明.docx = Documents\说明.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL脚本 for JobServer", "SQL脚本 for JobServer", "{5915425A-572B-48B0-B4F1-AEEEF5D12C34}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\SQL脚本 for JobServer\1-CREATE JobScheduler Table.sql = Documents\SQL脚本 for JobServer\1-CREATE JobScheduler Table.sql
+		Documents\SQL脚本 for JobServer\2-CREATE JobExecuteLog Table.sql = Documents\SQL脚本 for JobServer\2-CREATE JobExecuteLog Table.sql
+		Documents\SQL脚本 for JobServer\3-INSERT JobScheduler SQL.sql = Documents\SQL脚本 for JobServer\3-INSERT JobScheduler SQL.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6398C22F-BD7F-4A05-B236-FB677D8ADE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6398C22F-BD7F-4A05-B236-FB677D8ADE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6398C22F-BD7F-4A05-B236-FB677D8ADE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6398C22F-BD7F-4A05-B236-FB677D8ADE86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5915425A-572B-48B0-B4F1-AEEEF5D12C34} = {F6215404-FB75-4E59-AE62-895E816E93B9}
+	EndGlobalSection
+EndGlobal

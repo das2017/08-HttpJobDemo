@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace QuartzNetDemo.WebSite {
+namespace HttpJobDemo.WebSite {
     
     
     public partial class WebForm1 {

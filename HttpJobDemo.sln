@@ -13,8 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F6215404-FB75-4E59-AE62-895E816E93B9}"
 	ProjectSection(SolutionItems) = preProject
-		Documents\JobServer Release.7z = Documents\JobServer Release.7z
-		Documents\说明.docx = Documents\说明.docx
+		Documents\JobServer实现说明.docx = Documents\JobServer实现说明.docx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL脚本 for JobServer", "SQL脚本 for JobServer", "{5915425A-572B-48B0-B4F1-AEEEF5D12C34}"

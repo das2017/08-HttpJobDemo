@@ -3,10 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{C8D56201-BC41-427E-8DDC-60E79AF5D774}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDll", "{C8D56201-BC41-427E-8DDC-60E79AF5D774}"
 	ProjectSection(SolutionItems) = preProject
 		References\log4net.dll = References\log4net.dll
 		References\log4net.xml = References\log4net.xml
+		ReferenceDll\Readme.txt = ReferenceDll\Readme.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.csproj", "{6398C22F-BD7F-4A05-B236-FB677D8ADE86}"

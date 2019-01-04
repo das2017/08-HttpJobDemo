@@ -1,6 +1,6 @@
 # HttpJobDemo
 
-## 第14章的Demo下载和更多资料
+## 第8章的Demo下载和更多资料
 ### Demo下载：
 + WinJobDemo下载地址：https://github.com/das2017/QuartzDemo
 + HttpJobDemo下载地址：https://github.com/das2017/HttpJobDemo
